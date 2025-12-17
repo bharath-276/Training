@@ -1,0 +1,26 @@
+Git:
+Git is a distributed version control system used to track changes in source code.
+
+GitHub:
+GitHub is a web-based platform that hosts Git repositories and supports collaboration among developers.
+
+install git if not there or to check use  git --version
+
+open cmd prompt from the running folder
+and initialize git with command: git init 
+next  add the files using command:git add .
+and check the status: git status(to check the files that are added)
+next give the command git commit -m "portfolio" to commit
+then we get create mode 
+create the repository
+git remote add origin https://github.com/bharath-276/Training.git
+and next 
+use command:git branch -M main (branch name )
+next push it into ur branch  using command
+ git push -u origin main(the files will be pushed)
+the files will be visible in the repository 
+next go to setting navigate to pages 
+select the branch 
+give ur custom domain name 
+it will redirect to the site
+it also show viste site option in the page u can click it and u will be redirected to the page
